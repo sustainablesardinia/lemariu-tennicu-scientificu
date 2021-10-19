@@ -1,0 +1,222 @@
+[
+    {
+        "italian": "tasso",
+        "italian-type": "s.m.",
+        "description": "Una cantidadi o gradu de una cosa mesurada paris de s' unidadi de un' àtera.",
+        "discipline": "ten. gen.",
+        "english": "rate",
+        "german": "Rate",
+        "castillan": [
+            "ìndice",
+            "razón"
+        ],
+        "catalan": [
+            "ìndex",
+            "raó"
+        ],
+        "french": "taux",
+        "portuguese": "razão",
+        "sardinian": {
+            "campidanese": "arrata",
+            "logudorese": "rata",
+            "type": "s.f."
+        },
+        "usage": "Su potabilisadori de su Bidighinzu affiantzat un' arrata de 170 litrus a su segundu."
+    },
+    {
+        "italian": "litro",
+        "italian-type": "s.m.",
+        "description": "S' unidadi de capacitadi de su SI",
+        "discipline": "ten. gen.",
+        "english": "litre",
+        "german": "Liter",
+        "castillan": "litro",
+        "catalan": "litre",
+        "french": "litre",
+        "portuguese": "litro",
+        "sardinian": "litru",
+        "usage": "Unu litru de àcua."
+    },
+    {
+        "italian": "rinnovabile",
+        "italian-type": "agg.",
+        "description": "Su chi pertocat energia e arresorsas chi si podint imperai chena de ddas spaciai.",
+        "discipline": "ecol.",
+        "english": "renewable",
+        "german": "erneuerbar",
+        "castillan": "renovable",
+        "catalan": "renovable",
+        "french": "renouvelable",
+        "portuguese": "renovável",
+        "sardinian": {
+            "campidanese": "arrenoàbili",
+            "logudorese": "arrenoàbile"
+        },
+        "usage": "De su soli si otennit energia arrenoàbili."
+    },
+    {
+        "italian": "calcolare",
+        "italian-see-also": "computare",
+        "italian-type": "v.t.",
+        "description": "Su fai càrculus.",
+        "discipline": "comp.",
+        "english": "to calculate",
+        "german": [
+            "berechnen",
+            "ausrechnen"
+        ],
+        "castillan": [
+            "calcular",
+            "computar"
+        ],
+        "catalan": "calcular",
+        "french": "calculer",
+        "portuguese": "computar",
+        "sardinian": {
+            "campidanese": "carculai",
+            "logudorese": "carculare"
+        },
+        "usage": "De sa lestresa e sa massa si càrculat sa fortza.",
+        "derived-lemmas": [
+            {
+                "italian": "calcolatore",
+                "italian-type": "s.m.",
+                "italian-see-also": "computer",
+                "description": "Una màchina, pruschetotu a tennologia letròngia, chi fait càrculus de manera lestra meda.",
+                "discipline": "comp.",
+                "english": "computer",
+                "german": "Computer",
+                "castillan": [
+                    "ordenador",
+                    "computadora"
+                ],
+                "catalan": "computer",
+                "french": "ordinateur",
+                "portuguese": "computador",
+                "sardinian": [
+                    {
+                        "both": "computadora",
+                        "type": "s.f."
+                    },
+                    {
+                        "campidanese": "computadori",
+                        "logudorese": "computadore"
+                    }
+                ],
+                "usage": "Su ZX Spectrum fiat una computadora personali de is annus 80."
+            },
+            {
+                "italian": "calcolatrice",
+                "italian-type": "s.f.",
+                "description": "Una màchina pitichedda, portàbili, chi fait càrculus simplis.",
+                "discipline": "comp.",
+                "english": "calculator",
+                "german": "Taschenrechner",
+                "castillan": "calculadora",
+                "catalan": "computer",
+                "french": "calculatrice",
+                "portuguese": "calculadora",
+                "sardinian": "carculadora",
+                "usage": "No nci-dda fatzu a fai su càrculu a manu, mi serbit assumancu una carculadora."
+            }
+        ]
+    },
+    {
+        "italian": "computare",
+        "italian-type": "v.t.",
+        "italian-see-also": "calcolare",
+        "description": "Su fai càrculus, pruschetotu a computadora.",
+        "discipline": "comp.",
+        "english": "to compute",
+        "german": "berechnen",
+        "castillan": "calcular",
+        "catalan": "computar",
+        "french": "calculer",
+        "portuguese": [
+            "calcular",
+            "computar"
+        ],
+        "sardinian": {
+            "campidanese": "computai",
+            "logudorese": "computare"
+        },
+        "usage": "Computai su tempus de sa furriada de Giobi.",
+        "derived-lemmas": [
+            {
+                "italian": "computazione",
+                "italian-type": "s.f.",
+                "italian-see-also": "calcolo",
+                "description": "Unu càrculu de tipu matemàticu.",
+                "discipline": [
+                    "comp.",
+                    "mat."
+                ],
+                "english": "computation",
+                "german": "Berechnung",
+                "castillan": "computación",
+                "catalan": "càlcul",
+                "french": "calcul",
+                "portugues": "computação",
+                "sardinian": "computadura",
+                "usage": "Finsas a imoi sa computadura at bòfiu 1 millioni de oras CPU, chi funt 1 sèculu de tempus CPU."
+            },
+            {
+                "italian": "computazionale",
+                "italian-type": "agg.",
+                "description": "Nau de su chi pertocat su computai, o chi si fait imperendi computadoras.",
+                "discipline": "comp.",
+                "english": "computational",
+                "german": "Computer-",
+                "castillan": "computacional",
+                "catalan": "computacional",
+                "french": "computationnel",
+                "portuguese": "computacional",
+                "sardinian": {
+                    "campidanese": "computadurali",
+                    "logudorese": "computadurale"
+                },
+                "usage": "Sa sustenibilidadi computadorali est imperai sa scièntzia de su computai po su cresci sustenìbili."
+            }
+        ]
+    },
+    {
+        "italian": "algoritmo",
+        "italian-type": "s.m.",
+        "description": "Una filera de passus chi, partendi de unus cantu informus, donant un' arrisultau po unu problema.",
+        "discipline": "comp.",
+        "english": "algorithm",
+        "german": "Algorithmus",
+        "castillan": "algoritmo",
+        "catalan": "algorisme",
+        "french": "algorithme",
+        "portuguese": "algoritmo",
+        "sardinian": "algorìtimu",
+        "usage": "Apustis, un' algorìtimu de sa computadora at classificau sa genti a segunda de su comportamentu."
+    },
+    {
+        "italian": "sviluppare",
+        "italian-type": "v.t.",
+        "description": [
+            "Su traballai a una faina po dda fai prus avantzada e cumpria, o po dd'acabai totu.",
+            "S' ammanniadura de s' economia e su bivi mellus in d-unu logu."
+        ],
+        "discipline": [
+            "ing.",
+            "econ."
+        ],
+        "english": "to develop",
+        "german": "entwickeln",
+        "castillan": "desarrollar",
+        "catalan": "desenvolupar",
+        "french": "développer",
+        "portuguese": "desenvolver",
+        "sardinian": {
+            "campidanese": "adelantai",
+            "logudorese": "adelantare"
+        },
+        "usage": [
+            "In is 3 mesis chi benint, apu a adelantai unu programa po sa computadora.",
+            "Sa Germània est unu paisu adelantau meda."
+        ]
+    }
+]
