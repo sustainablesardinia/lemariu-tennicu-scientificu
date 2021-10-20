@@ -33,7 +33,7 @@ de sa disciplina sua.
 
 Is chi bolint scriri de chistionis tènnicu-scientìficas in sardu dd' acabant
 imbentendi fueddus dònnia borta, chena de sciri is chi imperant is àterus. A bortas,
-issus etotu dd' acabant sardisendi fueddus italianus po fai allestru.
+issus etotu dd' acabant sardisendi fueddus italianus po coidai.
 
 ### Arresolvi su problema s' arrelatat cun is tareas de sa Faina?
 
