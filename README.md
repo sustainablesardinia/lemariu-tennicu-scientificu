@@ -113,6 +113,8 @@ Sa mesura s' at a podi pigai de manera no dereta. Atopus:
 
 ### Comenti si depit imperai/otenni custu progetu?
 
+#### Aciungi unu fueddu
+
 Abastat a preni custu mòlliu po dònnia fueddu:
 ``` json
 {
@@ -172,3 +174,7 @@ Labai un' atopu de su mòlliu prenu:
 In i-custu atopu, sigomenti su fueddu sardu est de sa pròpriu genia de s'
 italianu e est su pròpriu chi siat in campidanesu o in logudoresu, est scritu
 de manera prus simpli che in su mollu sbuidu chi eus biu primu.
+
+#### Ingenerai su PDF
+
+Po imoi no nc' at manera dereta. Bolit scritu unu programa po fai custu.
