@@ -36,7 +36,7 @@ acabant sardisendi fueddus italianus po coidai.
 ### Arresolvi su problema s' arrelatat cun is tareas de sa Faina?
 
 Chi nci fessit una manera comuna de fueddai de chistioni tènnicu-scientìficas su
-traballu de Sardinia Sustainability iat a andai de manera prus lestra. Arresolvi
+traballu de Sustainable Sardinia iat a andai de manera prus lestra. Arresolvi
 custu problema iat a essi una manera de agiudai is chi bolint a scriri de prus
 in sardu.
 
