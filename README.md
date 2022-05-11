@@ -115,57 +115,65 @@ Sa mesura s' iat a podi pigai de manera no dereta. Esemprus:
 Abastat a preni custu mòlliu po dònnia fueddu:
 ``` json
 {
-    "italian": "",
-    "italian-type": "",
+    "italian": {
+        "lemma": "",
+        "type": "",
+    },
     "description": "",
     "discipline": "",
     "english": "",
     "german": "",
-    "castillan": ,
+    "castillan": "",
     "catalan": "",
     "french": "",
     "portuguese": "",
     "sardinian": {
         "campidanese": "",
         "logudorese": "",
-        "type": ""
-    },
-    "usage": ""
+        "type": "",
+        "usage": "",
+    }
 }
 ```
 
 In su mòlliu:
 * *italian*: su fueddu tènnicu italianu,
-* *italian-type*: sa sceda de fueddu in italianu (s.m., s.f., v.t., ...)
+   * *lema* e *type* funt su lema italianu e sa sceda de lema.
 * *description*: una spricadura de su sentidu de su lema in s' imperu pretzisu chi si-ndi
   bolit fai.
-* *discipline*: sa disciplina anca ndi benit su fueddu (econ., ing. elet., med., fìs.,
-  ...)
+* *discipline*: sa disciplina anca ndi benit su fueddu (càstia **incurtzaduras.csv**)
 * *english*: su fueddu tènnicu in ingresu,
 * *german*: su fueddu tènnicu in tedescu,
 * *castillan*: su fueddu tènnicu in castillianu,
 * *catalan*: su fueddu tènnicu in catalanu,
 * *french*: su fueddu tènnicu in frantzesu,
 * *portuguese*: su fueddu tènnicu in portughesu,
-* *sardinian*: su fueddu chi si bolit imperai in sardu, siat in campidanesu chi in
-  logudoresu.
-* *usage*: un' esempru de comenti s' iat a imperai su fueddu.
+* *sardinian*: su fueddu chi si bolit imperai in sardu
+   * *campidanesu* e *logudoresu* funt sa forma campidanesa e sa logudoresa. Chi funt sa
+     pròpriu cosa, si podit impreai *both*.
+   * *type*: sa sceda de lema in sardu,
+   * *usage*: un' esempru de comenti s' iat a imperai su fueddu.
 
 Labai un' esempru de su mòlliu prenu:
 ``` json
 {
-    "italian": "algoritmo",
-    "italian-type": "s.m.",
-    "description": "Una filera de passus chi, partendi de unus cantu informus, donant un' arresurtau po unu problema.",
-    "discipline": "comp.",
+    "italian": {
+        "lemma": "algoritmo",
+        "type": "n.m."
+    },
+    "description": "Unu listòngiu de passus chi, partendi de unus cantu informus, donant un' arresultau po unu problema.",
+    "discipline": "infor.",
     "english": "algorithm",
     "german": "Algorithmus",
     "castillan": "algoritmo",
     "catalan": "algorisme",
     "french": "algorithme",
     "portuguese": "algoritmo",
-    "sardinian": "algorìtimu",
-    "usage": "Apustis, un' algorìtimu de sa computadora at crassificau sa genti a segunda de su comportamentu."
+    "sardinian": {
+        "both": "algorìtimu",
+        "type": "n.m.",
+        "usage": "Apustis, un' algorìtimu de sa computadora at crassificau sa genti a segunda de su comportamentu."
+    }
 }
 ```
 In i-custu esempru, sigomenti su fueddu sardu est de sa pròpriu genia de s' italianu e est
