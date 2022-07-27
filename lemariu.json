@@ -253,9 +253,29 @@
         "french": "paysage",
         "portuguese": "paisagem",
         "sardinian": {
-            "both": "mirada",
+            "both": "paisàgiu",
             "type": "n.f.",
-            "usage": "Sa partzidura de sa mirada est unu problema de s' Europa totu."
+            "usage": "Sa partzidura de su paisàgiu est unu problema de s' Europa totu."
+        }
+    },
+    {
+        "italian": {
+            "lemma": "trasporto",
+            "type": "n.m."
+        },
+        "description": "S' acuntessimentu de movi cosa, o is màchinas chi funt imperadas po ddu fai.",
+        "discipline": "gen.",
+        "english": "transport",
+        "german": "Transport",
+        "castillan": "transporte",
+        "catalan": "transport",
+        "french": "transport",
+        "portuguese": "transporte",
+        "sardinian": {
+            "campidanese": "carrìngiu",
+            "logudorese": "carrìnzu",
+            "type": "n.m.",
+            "usage": "Su carrìngiu pertocat bias de terra e de mari, mancai s' ùrtima siat prus de importu."
         }
     }
 ]
